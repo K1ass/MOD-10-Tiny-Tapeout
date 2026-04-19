@@ -2,7 +2,7 @@
 project:
   wokwi_id:     460932035243832321       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "MOD-10 D flip-flop counter"      # Project title
-  author:       "YAO2"      # Your name
+  author:       "Guang Yao"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Why is Wokwi so Garbage"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
