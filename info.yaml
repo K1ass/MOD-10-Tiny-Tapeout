@@ -4,7 +4,7 @@ project:
   title:        "MOD-10 D flip-flop counter"      # Project title
   author:       "Guang Yao"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Why is Wokwi so Garbage"      # One line description of what your project does
+  description:  "MOD-10 D Flip Flop Counter that counts 0 - 9 using binary via LEDs"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     2       # Clock frequency in Hz (or 0 if not applicable)
 
